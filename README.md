@@ -1,6 +1,6 @@
 # DOESAH ESPHome Firmware for GUITION ESP32-S4-4848S040
 
-<a href="https://doesah.com/firmware" target="_blank"><strong>Flash the firmware online: https://doesah.com/firmware</strong></a>
+**Flash the firmware online: [https://doesah.com/firmware](https://doesah.com/firmware)**
 
 
 
@@ -86,11 +86,11 @@ During normal device control and state sync, the device **never sends any device
 
 ### Flash the Firmware
 
-Use the official flasher at <a href="https://doesah.com/firmware" target="_blank">https://doesah.com/firmware</a> to flash your 4-inch ESP32-S3 panel in one click.
+Use the official flasher at [https://doesah.com/firmware](https://doesah.com/firmware) to flash your 4-inch ESP32-S3 panel in one click.
 
 ### Design Online and Download the UI
 
-1. Go to <a href="https://doesah.com" target="_blank">https://doesah.com</a>, create an account, and add your device with its serial number.
+1. Go to [https://doesah.com](https://doesah.com), create an account, and add your device with its serial number.
 
 2. Pick a **preset template** or design your interface with the **drag & drop editor**.
 
@@ -114,8 +114,8 @@ Use the official flasher at <a href="https://doesah.com/firmware" target="_blank
 
 If you run into any issue while flashing or using the platform, or if you want to **unlock unlimited cloud syncs / buy premium business templates**:
 
-- Open a ticket on the DOESAH Smart website: <a href="https://doesah.com/user/feedback" target="_blank">https://doesah.com/user/feedback</a>
+- Open a ticket on the DOESAH Smart website: [https://doesah.com/user/feedback](https://doesah.com/user/feedback)
 
-- **File a bug / suggestion on GitHub**: <a href="https://github.com/doesah/esphome-guition4848s040-dynamic-drag-ui/issues/" target="_blank">https://github.com/doesah/esphome-guition4848s040-dynamic-drag-ui/issues/</a>
+- **File a bug / suggestion on GitHub**: [https://github.com/doesah/esphome-guition4848s040-dynamic-drag-ui/issues/](https://github.com/doesah/esphome-guition4848s040-dynamic-drag-ui/issues/)
 
 
