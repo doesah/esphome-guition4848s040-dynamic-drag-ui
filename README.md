@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/9e8c32f9-f435-4894-8652-f92e0d56793f
 
 ## Architecture & Local-First
 
-> **Dynamic rendering & purely local control**: Doesah FSPane-G1 follows a **Local-First** design. We do provide a convenient cloud visual design platform, but day to day the device **needs no internet at all**.
+> **Dynamic rendering & purely local control**: this firmware follows a **Local-First** design. We do provide a convenient cloud visual design platform, but in day-to-day use the device **needs no internet at all**.
 > 
 > 
 
