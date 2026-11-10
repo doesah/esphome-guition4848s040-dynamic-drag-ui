@@ -6,6 +6,9 @@
 
 DOESAH Smart builds dynamic UI and customization solutions for embedded devices. It pairs high-performance device firmware with a cloud-based visual design platform, so your smart hardware interface no longer needs code edits and rebuilds — design by dragging in the browser, sync to the device in seconds, and connect to Home Assistant with minimal effort.
 
+https://github.com/user-attachments/assets/9e8c32f9-f435-4894-8652-f92e0d56793f
+
+
 **No C++ / LVGL required. No ESPHome build environment to set up.** Just **drag and drop** to design your interface in the browser, or apply one of many **ready-made templates**, and the device downloads the UI from the cloud in real time. Combined with our Home Assistant blueprints, wiring a UI widget to an HA entity takes only a few seconds.
 
 ## Key Features
